@@ -6,13 +6,12 @@
 /*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/10 21:35:46 by tobeshota         #+#    #+#             */
-/*   Updated: 2023/06/11 18:31:02 by toshota          ###   ########.fr       */
+/*   Updated: 2023/06/12 18:46:46 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
 #include "../libft.h"
-
+#include "ft_printf.h"
 
 void	ft_putnbr_base(unsigned long long nb, char *base)
 {
