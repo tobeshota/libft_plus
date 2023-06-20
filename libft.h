@@ -6,13 +6,14 @@
 /*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/21 19:12:06 by tobeshota         #+#    #+#             */
-/*   Updated: 2023/05/28 18:33:05 by toshota          ###   ########.fr       */
+/*   Updated: 2023/06/20 11:48:25 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
+# include "ft_printf/ft_printf.h"
 # include <limits.h>
 # include <stdint.h>
 # include <stdlib.h>
