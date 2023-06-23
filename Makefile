@@ -6,7 +6,7 @@
 #    By: toshota <toshota@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/26 19:52:48 by toshota           #+#    #+#              #
-#    Updated: 2023/06/11 18:54:04 by toshota          ###   ########.fr        #
+#    Updated: 2023/06/23 16:16:24 by toshota          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -62,4 +62,4 @@ test:		$(NAME)
 			@./test
 			@$(RM) test
 
-.PHONY:		all bonus clean fclean re
+.PHONY:		all bonus clean fclean re test
